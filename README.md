@@ -13,7 +13,9 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
   <li>Staff Hacks</li>
   <li>Improved UI</li>
   <li>Several Exploits</li>
-  <li><em>The DESTROYER</em></li>
-  <li>And much more!</li>
+  <li>The <em>DESTROYER</em></li>
+  <li>Extensive API with many new features (e.g. Token Storage)
+  <li>Account Switcher (alt manager)</li>
+  <li><strong>And much more!</strong></li>
 <ul>
 </p>
