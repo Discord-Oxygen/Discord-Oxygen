@@ -21,6 +21,8 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
   </li>
   <li>Utility Features
     <ul>
+      <li>Login with Token</li>
+      <li>Login as Bot</li>
       <li>Split Chat</li>
       <li>Custom RPC (Now Playing ...)</li>
       <li>Animated Status</li>
@@ -32,6 +34,7 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
           <li>Secret "hacker console" for developers</li>
         </ul>
       </li>
+      <li>Selfbot</li>
       <li>More Integrations</li>
       <li>Send custom emojis without having to join the Emoji's Server</li>
       <li>Upload .png files as custom Oxygen-exclusive Emojis (unlimited amount)</li>
@@ -39,14 +42,35 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
     </ul>
   </li>
   <li>The "All Seing Eye"</li>
-  <li>Staff Hacks</li>
+  <li>Staff Hacks
+    <ul>
+      <li>Discord Experiments (Staff Exclusive Beta-Tests)</li>
+      <li>Developer Options (includes custom build-overrides)</li>
+      <li>Become Staff + Certified Moderator</li>
+      <li>Get every badge (Inlcuding all Hypesquad Houses at once)</li>
+      <li>Secret Features</li>
+    </ul>
+  </li>
   <li>Improved UI
     <ul>
       <li>Custom Themes</li>
       <li>Better Code Blocks</li>
     </ul>
   </li>
-  <li>Several Exploits</li>
+  <li>Several Exploits, for example:
+    <ul>
+      <li>Bypass MFA</li>
+      <li>Token Cracker & Validator (I reversee-engineered Discords JWT System, check out <a href="https://github.com/hxr404/Discord-Console-hacks">Discord Console Hacks</a></li>
+      <li>Discord Mobile QR Exploit</li>
+      <li>Send Messages as someone else</li>
+      <li>Log into other people's Account, just by sending them a link (by exploiting a flaw in Discord's authentication System)*</li>
+      <li>Fetch private Information (such as IP-Adresses, uniquely Identifiable Hardware Adresses, Location, etc.*</li>
+      <li>Full grabber using only a Link*</li>
+      <li>Track someone's exact location (5m accuracy) everywhere across the globe, in livetime (a few seconds latency)*</li>
+      <li>Bank Account Stealer*</li><br>
+      <strong>* Private-only due to the risk of missuse</strong>
+    </ul>
+  </li>
   <li>Extensive API with many new features (e.g. Token Storage)</li>
   <li>The <em>DESTROYER</em></li>
   <li>Account Switcher (alt manager)</li>
