@@ -20,7 +20,6 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
       <li>Server Boosts (see Oxygen Boosts)</li>
       <li>Unlimited Upload Filesize: normal 10MB, Discord Nitro 100MB, Discord Oxygen 100,000MB</li>
       <li>Unlimited Servers: normal 100 Servers, Discord Nitro 200 Servers, Discord Oxygen ∞ Servers<br>(after more than 10,000 Servers your PC might get a bit laggy though)</li>
-      <br>
     </ul>
   </li>
   <li>Oxygen Boosts
