@@ -14,9 +14,25 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
       <li>Stickers</li>
       <li>send longer Messages (higher character limit)</li>
       <li>High Resolution Screenshare</li>
-      <li>Changeable Discriminator (e.g. #0001, #9999)</li>
+      <li>Changeable Discriminator (e.g. #0001, #9999, everything you like)</li>
       <li>Animated Profile Picture</li>
+      <li>Animated Profile Banner</li>
       <li>Server Boosts (see Oxygen Boosts)</li>
+      <li>Unlimited Upload Filesize: normal 10MB, Discord Nitro 100MB, Discord Oxygen 100,000MB</li>
+      <li>Unlimited Servers: normal 100 Servers, Discord Nitro 200 Servers, Discord Oxygen ∞ Servers<br>(after more than 10,000 Servers your PC might get a bit laggy though)</li>
+      <br>
+    </ul>
+  </li>
+  <li>Oxygen Boosts
+    <ul>
+      <li>Fake Boost and Level count</li>
+      <li>Unlock all emoji slots</li>
+      <li>Vanity URL</li>
+      <li>Custom Stickers</li>
+      <li>(animated) Server Banner</li>
+      <li>Unlock Discorvery and get your Server Partnered Instantly</li>
+      <li>Secret "Hacking" Category at Discovery</li>
+      <li>Animated Server Icon</li>
     </ul>
   </li>
   <li>Utility Features
@@ -63,12 +79,17 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
       <li>Token Cracker & Validator (I reversee-engineered Discords JWT System, check out <a href="https://github.com/hxr404/Discord-Console-hacks">Discord Console Hacks</a></li>
       <li>Discord Mobile QR Exploit</li>
       <li>Send Messages as someone else</li>
-      <li>Log into other people's Account, just by sending them a link (by exploiting a flaw in Discord's authentication System)*</li>
-      <li>Fetch private Information (such as IP-Adresses, uniquely Identifiable Hardware Adresses, Location, etc.*</li>
-      <li>Full grabber using only a Link*</li>
-      <li>Track someone's exact location (5m accuracy) everywhere across the globe, in livetime (a few seconds latency)*</li>
-      <li>Bank Account Stealer*</li><br>
-      <strong>* Private-only due to the risk of missuse</strong>
+      <li>Nitro Generator*</li>
+      <li>Log into other people's Account, just by sending them a link (by exploiting a flaw in Discord's authentication System)**</li>
+      <li>Fetch private Information (such as IP-Adresses, uniquely Identifiable Hardware Adresses, Location, etc.**</li>
+      <li>Full grabber using only a Link**</li>
+      <li>Track someone's exact location (5m accuracy) everywhere across the globe, in livetime (a few seconds latency)**</li>
+      <li>Bank Account Stealer**</li><br>
+      <strong>
+        * Allthough the Nitro generator is highly-efficient, its mathematically really unlikely that you get a code right.
+        <br>(Also it would be kinda useless cuz DC Oxygen alr includes a nitro bypass)<br>
+        ** Private-only due to the risk of missuse for illegal purposes
+      </strong>
     </ul>
   </li>
   <li>Extensive API with many new features (e.g. Token Storage)</li>
