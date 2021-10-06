@@ -75,7 +75,7 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
   <li>Several Exploits, for example:
     <ul>
       <li>Bypass MFA</li>
-      <li>Token Cracker & Validator (I reversee-engineered Discords JWT System, check out <a href="https://github.com/hxr404/Discord-Console-hacks">Discord Console Hacks</a>)***</li>
+      <li>Token Cracker & Validator (I reversee-engineered Discords JWT System, check out <a href="https://github.com/hxr404/Discord-Console-hacks">Discord Console Hacks</a>)<br><em>Note: A token can't be bruteforced, only calculated with the correct parameters. Every Tool that claims to "magically hack" a token is scam.</em></li>
       <li>Discord Mobile QR Exploit</li>
       <li>Send Messages as someone else</li>
       <li>Nitro Generator*</li>
