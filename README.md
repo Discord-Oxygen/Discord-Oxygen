@@ -82,8 +82,6 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
       <li>Log into other people's Account, just by sending them a link (by exploiting a flaw in Discord's authentication System)**</li>
       <li>Fetch private Information (such as IP-Adresses, uniquely Identifiable Hardware Adresses, Location, etc.**</li>
       <li>Full grabber using only a Link**</li>
-      <li>Track someone's exact location (5m accuracy) everywhere across the globe, in livetime (a few seconds latency)**</li>
-      <li>Bank Account Stealer**</li><br>
       <strong>
         * Allthough the Nitro generator is highly-efficient, its mathematically really unlikely that you get a code right.
         <br>(Also it would be kinda useless cuz DC Oxygen alr includes a nitro bypass)<br>
