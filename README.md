@@ -5,7 +5,7 @@
 Discord Oxygen is a universal Client mod with many Features and every single Hack <strong>I ever created</strong>.
 
 <h2>Features</h2>
-<p>(Note: Unfortunatetly I cannot list every single Feature here becuase that would exceed the maximum page lengt  by far)
+<p>(Note: Unfortunatetly I cannot list every single Feature here becuase that would exceed the maximum page length  by far)
 
 <ul>
   <li>Free Discord Nitro
@@ -101,5 +101,16 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
     </ul>
   </li>
   <li><strong>And much more!</strong></li>
-<ul>
+</ul>
 </p>
+
+<br>
+<h2>Community</h2>
+  <p><details><summary>This project is the continuation / result of my research on <a href="https://github.com/hxr404/Discord-Console-hacks">Discord Console Hacks</a>.</summary>
+  The Discord Nitro script I made back then was fixed multiple times and I started a new project called the Framework. I included all Console Hacks and soon it began growing into something bigger. The Discord Server constantly grew (to over 500+ Members), some experienced devs joined us and we did some more research together.<br>
+  But Discord didn't like it and soon the Server got deleted and every Staff Member banned. Discord is now "going after me", my exit nodes & proxies IP's are blacklisted and my public profiles are actively checked for Discord accounts to be banned. (No worries, I always find a way to create a new Account, I still have a bunch of alts.)<br>
+  Thats when we decided to switch to Matrix, a open-source, decentralized, uncensorable and end-to-end encrypted Messaging Protocol. Its quite stable now, Anonymous and other Communities are hosted there.</details><br>
+  Here's the Invite Link: https://matrix.to/#/#discord-oxygen:matrix.org<br>
+  <em>(In case you can't use Matrix, this Discord Server is bridged to it: https://discord.gg/2FqBxRA6fS)</em>
+  </p>
+  
