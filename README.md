@@ -81,7 +81,7 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
       <li>Nitro Generator*</li>
       <li>Full grabber using only a Link**<ul>
           <li>Log into other people's Account READ-ONLY, just by sending them a link (by exploiting a flaw in Discord's authentication System)**</li>
-          <li>Fetch private Information (such as IP-Adresses, Hardware Adresses, realtime + IP location, phone number, open attack vectors, etc.)**</li>
+          <li>Fetch private Information (such as IP-Adresses, hardware specs, realtime + IP location, phone number, available attack vectors, etc.)**</li>
         </ul>
       </li>
       <br>
