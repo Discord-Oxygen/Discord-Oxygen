@@ -109,6 +109,7 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
 
 <br>
 <h2>Community</h2>
+<em>Please read the <a href="FAQ.md">FAQ</a> before asking questions.</em>
   <p><details><summary>This project is the continuation / result of my research on <a href="https://github.com/hxr404/Discord-Console-hacks">Discord Console Hacks</a>.</summary>
   The Discord Nitro script I made back then was fixed multiple times and I started a new project called the Framework. I included all Console Hacks and soon it began growing into something bigger. The Discord Server constantly grew (to over 500+ Members), some experienced devs joined us and we did some more research together.<br>
   But Discord didn't like it and soon the Server got deleted and every Staff Member banned. Discord is now "going after me", my exit nodes & proxies IP's are blacklisted and my public profiles are actively checked for Discord accounts to be banned. (No worries, I always find a way to create a new Account, I still have a bunch of alts.)<br>
