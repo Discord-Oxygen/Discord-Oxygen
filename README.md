@@ -5,7 +5,7 @@
 Discord Oxygen is a universal Client mod with many Features and every single Hack <strong>I ever created</strong>.
 
 <h2>Features</h2>
-<p>(Note: Unfortunatetly I cannot list every single Feature here becuase that would exceed the maximum page length  by far)
+<p>(Note: Unfortunately I cannot list every single Feature here because that would exceed the maximum page length  by far)
 
 <ul>
   <li>Free Discord Nitro
