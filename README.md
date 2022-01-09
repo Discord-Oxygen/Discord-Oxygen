@@ -115,6 +115,6 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
   But Discord didn't like it and soon the Server got deleted and every Staff Member banned. Discord is now "going after me", my exit nodes & proxies IP's are blacklisted and my public profiles are actively checked for Discord accounts to be banned. (No worries, I always find a way to create a new Account, I still have a bunch of alts.)<br>
   Thats when we decided to switch to Matrix, a open-source, decentralized, uncensorable and end-to-end encrypted Messaging Protocol. Its quite stable now, Anonymous and other Communities are hosted there.</details><br>
   Here's the Invite Link: https://matrix.to/#/#discord-oxygen:matrix.org<br>
-  <em>(In case you can't use Matrix, this Discord Server is bridged to it: https://discord.gg/2FqBxRA6fS)</em>
+  <em>(In case you can't use Matrix, this Discord Server is bridged to it: https://discord.com/invite/vs979cxECA)</em>
   </p>
   
