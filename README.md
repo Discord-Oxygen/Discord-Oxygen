@@ -4,8 +4,18 @@
 <h2>About</h2>
 Discord Oxygen is a universal Client mod with many Features and every single Hack <strong>I ever created</strong>.
 
+<h2>Important Information</h2>
+<p>
+  Many Features listed here are only client-side!<br>
+  This means that some things like a custom discriminator or animated profile picture/banner are <strong>only visibile to other users of Discord Oxygen!!!</strong><br>
+  We try to make as many things globally visible as possible, but that's not possible for everything.<br>
+  (For example the custom emojis are real emojis for Discord-Oxygen-users, but for non-Discord-Oxygen-users they only <strong>look like<strong> custom emojis.)<br>
+  <strong>You won't get a real Discord Nitro Subscription for free.</strogn> Any tool claiming to do that is most likely a scam.
+</p>
+
 <h2>Features</h2>
 <p>(Note: Unfortunately I cannot list every single Feature here because that would exceed the maximum page length  by far)
+
 
 <ul>
   <li>Free Discord Nitro
@@ -74,14 +84,14 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
   </li>
   <li>Several Exploits, for example:
     <ul>
-      <li>Bypass MFA</li>
+      <li>Bypass MFA ony our own Account</li>
       <li>Token Cracker & Validator (I reversee-engineered Discords JWT System, check out <a href="https://github.com/hxr404/Discord-Console-hacks">Discord Console Hacks</a>)<br><em>Note: A token can't be bruteforced, only calculated with the correct parameters. Every Tool that claims to "magically hack" a token is scam.</em></li>
       <li>Discord Mobile QR Exploit</li>
       <li>Send Messages as someone else</li>
       <li>Nitro Generator*</li>
       <li>Full grabber using only a Link**<ul>
-          <li>Log into other people's Account READ-ONLY, just by sending them a link (by exploiting a flaw in Discord's authentication System)**</li>
-          <li>Fetch private Information (such as IP-Adresses, hardware specs, realtime + IP location, phone number, available attack vectors, open ports, etc.)**</li>
+          <li>Get READ-ONLY access to most of someone's account data (except for the password), just by sending them a link they need to click (by exploiting a flaw in Discord's authentication System)**</li>
+          <li>Fetch private Information (such as IP-Adresses, hardware specs, realtime + IP location, biometric data, phone number, available attack vectors, open ports, etc.)**</li>
         </ul>
       </li>
       <br>
@@ -94,7 +104,7 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
   </li>
   <li>Extensive API with many new features (e.g. Token Storage)</li>
   <li>The <em>DESTROYER</em></li>
-  <li>Account Switcher (alt manager)</li>
+  <li>Account Switcher (alt manager) which **does not link your accounts**</li>
   <li>Better Settings
     <ul>
       <li>Custom Colors</li>
