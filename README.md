@@ -9,8 +9,10 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
   Many Features listed here are only client-side!<br>
   This means that some things like a custom discriminator or animated profile picture/banner are <strong>only visibile to other users of Discord Oxygen!!!</strong><br>
   We try to make as many things globally visible as possible, but that's not possible for everything.<br>
-  (For example the custom emojis are real emojis for Discord-Oxygen-users, but for non-Discord-Oxygen-users they only <strong>look like<strong> custom emojis.)<br>
-  <strong>You won't get a real Discord Nitro Subscription for free.</strogn> Any tool claiming to do that is most likely a scam.
+  (For example the custom emojis are real emojis for Discord-Oxygen-users, but for non-Discord-Oxygen-users they only <strong>look like</strong> custom emojis.)<br>
+  <strong>You won't get a real Discord Nitro Subscription for free.</strong> Any tool claiming to do that is most likely a scam.<br>
+  <br>
+  <strong>Important:</strong> Only use exploits on your own Accounts or on Accounts where you got the legal permission to do so. Hacking accounts is <strong>illegal</strong>, you might get in serious trouble if you don't have the permission. Please also consider that this wouldn't only be illegal but also unethical. 
 </p>
 
 <h2>Features</h2>
