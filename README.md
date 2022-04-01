@@ -2,21 +2,21 @@
 <img alt="Discord Oxygen Logo" src="https://user-images.githubusercontent.com/55095883/136019584-872c07a9-da19-41c0-b701-6d42f33afd43.png" />
 <br />
 <h2>About</h2>
-Discord Oxygen is a universal Client mod with many Features and every single Hack <strong>I ever created</strong>.
+Discord Oxygen is a universal client modification with many features and every single hack <strong>I've ever created</strong>.
 
 <h2>Important Information</h2>
 <p>
-  Many Features listed here are only client-side!<br>
-  This means that some things like a custom discriminator or animated profile picture/banner are <strong>only visibile to other users of Discord Oxygen!!!</strong><br>
+  Many features listed here are only client-sided!<br>
+  This means that some things like a custom discriminator or animated profile picture/banner are <strong>only visibile to other users who are using Discord Oxygen!!!</strong><br>
   We try to make as many things globally visible as possible, but that's not possible for everything.<br>
-  (For example the custom emojis are real emojis for Discord-Oxygen-users, but for non-Discord-Oxygen-users they only <strong>look like</strong> custom emojis.)<br>
-  <strong>You won't get a real Discord Nitro Subscription for free.</strong> Any tool claiming to do that is most likely a scam.<br>
+  (For example the custom emojis are real emojis for Discord-Oxygen-users, but for non Discord-Oxygen-users they only <strong>look like</strong> custom emojis.)<br>
+  <strong>You won't get a real Discord Nitro subscription for free.</strong> Any tool claiming to do that is most likely a scam.<br>
   <br>
-  <strong>Important:</strong> Only use exploits on your own Accounts or on Accounts where you got the legal permission to do so. Hacking accounts is <strong>illegal</strong>, you might get in serious trouble if you don't have the permission. Please also consider that this wouldn't only be illegal but also unethical. 
+  <strong>Important:</strong> Only use exploits on your own accounts or on accounts where you have the legal permission to do so. Hacking accounts is <strong>illegal</strong>, you will get in serious trouble if you don't have the permission. Please also consider that this wouldn't only be illegal but also unethical. 
 </p>
 
 <h2>Features</h2>
-<p>(Note: Unfortunately I cannot list every single Feature here because that would exceed the maximum page length  by far)
+<p>(Note: Unfortunately I cannot list every single feature here because that would exceed the maximum page length by far)
 
 
 <ul>
@@ -24,14 +24,14 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
     <ul>
       <li>Animated and Normal Emojis anywhere <img alt="NitroBlob Emoji" src="https://cdn.discordapp.com/emojis/775749437803855913.gif?v=1" width="17" /></li>
       <li>Stickers</li>
-      <li>send longer Messages (higher character limit)</li>
-      <li>High Resolution Screenshare</li>
+      <li>Send Longer Messages (higher character limit)</li>
+      <li>Higher Resolution Screenshare</li>
       <li>Changeable Discriminator (e.g. #0001, #9999, everything you like)</li>
       <li>Animated Profile Picture</li>
       <li>Animated Profile Banner</li>
       <li>Server Boosts (see Oxygen Boosts)</li>
-      <li>Unlimited Upload Filesize: normal 10MB, Discord Nitro 100MB, Discord Oxygen 100,000MB</li>
-      <li>Unlimited Servers: normal 100 Servers, Discord Nitro 200 Servers, Discord Oxygen ∞ Servers<br>(after more than 10,000 Servers your PC might get a bit laggy though)</li>
+      <li>Unlimited Upload Filesize: Normal 10MB, Discord Nitro 100MB, Discord Oxygen 100,000MB</li>
+      <li>Unlimited Servers: normal 100 Servers, Discord Nitro 200 Servers, Discord Oxygen ∞ Servers<br>(after more than 10,000 Servers your PC might get a bit laggy)</li>
     </ul>
   </li>
   <li>Oxygen Boosts
@@ -42,7 +42,7 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
       <li>Custom Stickers</li>
       <li>(animated) Server Banner</li>
       <li>Unlock Discorvery and get your Server Partnered Instantly</li>
-      <li>Secret "Hacking" Category at Discovery</li>
+      <li>Secret "Hacking" Category on Discovery</li>
       <li>Animated Server Icon</li>
     </ul>
   </li>
@@ -53,7 +53,7 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
       <li>Split Chat</li>
       <li>Custom RPC (Now Playing ...)</li>
       <li>Animated Status</li>
-      <li>Ghost-commands
+      <li>Ghost Commands
         <ul>
           <li>Client-Side & undetectable</li>
           <li>Easy to use (similar to slash commands)</li>
