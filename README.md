@@ -36,7 +36,7 @@ Discord Oxygen is a universal client modification with many features and every s
   </li>
   <li>Oxygen Boosts
     <ul>
-      <li>Fake Boost and Level count</li>
+      <li>Fake Boost and Level Count</li>
       <li>Unlock all emoji slots</li>
       <li>Vanity URL</li>
       <li>Custom Stickers</li>
@@ -55,7 +55,7 @@ Discord Oxygen is a universal client modification with many features and every s
       <li>Animated Status</li>
       <li>Ghost Commands
         <ul>
-          <li>Client-Side & undetectable</li>
+          <li>Client Sided & Undetectable</li>
           <li>Easy to use (similar to slash commands)</li>
           <li>Most Oxygen Features can be accessed and configured</li>
           <li>Secret "hacker console" for developers</li>
@@ -63,7 +63,7 @@ Discord Oxygen is a universal client modification with many features and every s
       </li>
       <li>Selfbot</li>
       <li>More Integrations</li>
-      <li>Send custom emojis without having to join the Emoji's Server</li>
+      <li>Send custom emojis without having to join the Emojis Server</li>
       <li>Upload .png files as custom Oxygen-exclusive Emojis (unlimited amount)</li>
       <li>Use custom stickers without having to upload them</li>
     </ul>
@@ -86,13 +86,13 @@ Discord Oxygen is a universal client modification with many features and every s
   </li>
   <li>Several Exploits, for example:
     <ul>
-      <li>Bypass MFA ony our own Account</li>
-      <li>Token Cracker & Validator (I reversee-engineered Discords JWT System, check out <a href="https://github.com/hxr404/Discord-Console-hacks">Discord Console Hacks</a>)<br><em>Note: A token can't be bruteforced, only calculated with the correct parameters. Every Tool that claims to "magically hack" a token is scam.</em></li>
+      <li>Bypass MFA on your own account</li>
+      <li>Token Cracker & Validator (I reverse-engineered Discords JWT System, check out <a href="https://github.com/hxr404/Discord-Console-hacks">Discord Console Hacks</a>)<br><em>Note: A token can't be bruteforced, only calculated with the correct parameters. Every tool that claims to "magically hack" a token is scam.</em></li>
       <li>Discord Mobile QR Exploit</li>
       <li>Send Messages as someone else</li>
       <li>Nitro Generator*</li>
-      <li>Full grabber using only a Link**<ul>
-          <li>Get READ-ONLY access to most of someone's account data (except for the password), just by sending them a link they need to click (by exploiting a flaw in Discord's authentication System)**</li>
+      <li>Full grabber using only a link**<ul>
+          <li>Get READ-ONLY access to most of someone's account data (except for the password), just by sending them a link they need to click (by exploiting a flaw in Discord's authentication system)**</li>
           <li>Fetch private Information (such as IP-Adresses, hardware specs, realtime + IP location, biometric data, phone number, available attack vectors, open ports, etc.)**</li>
         </ul>
       </li>
