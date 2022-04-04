@@ -2,14 +2,14 @@
 <img alt="Discord Oxygen Logo" src="https://user-images.githubusercontent.com/55095883/136019584-872c07a9-da19-41c0-b701-6d42f33afd43.png" />
 <br />
 <h2>About</h2>
-Discord Oxygen is a universal client modification with many features and every single hack <strong>I've ever created</strong>.
+Discord Oxygen is a universal client modification with many features and includes every single hack <strong>I've created</strong>.
 
 <h2>Important Information</h2>
 <p>
-  Many features listed here are only client-sided!<br>
-  This means that some things like a custom discriminator or animated profile picture/banner are <strong>only visibile to other users who are using Discord Oxygen!!!</strong><br>
+  Many features listed here are only client sided!<br>
+  This means that some things like a custom discriminator or animated profile picture/banner are <strong>only visible to other Discord Oxygen users!/strong><br>
   We try to make as many things globally visible as possible, but that's not possible for everything.<br>
-  (For example the custom emojis are real emojis for Discord-Oxygen-users, but for non Discord-Oxygen-users they only <strong>look like</strong> custom emojis.)<br>
+  (For example the custom emojis are real emojis for Discord Oxygen-users, but for non Discord-Oxygen-users they only <strong>look like</strong> custom emojis.)<br>
   <strong>You won't get a real Discord Nitro subscription for free.</strong> Any tool claiming to do that is most likely a scam.<br>
   <br>
   <strong>Important:</strong> Only use exploits on your own accounts or on accounts where you have the legal permission to do so. Hacking accounts is <strong>illegal</strong>, you will get in serious trouble if you don't have the permission. Please also consider that this wouldn't only be illegal but also unethical. 
