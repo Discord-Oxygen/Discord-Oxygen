@@ -2,21 +2,21 @@
 <img alt="Discord Oxygen Logo" src="https://user-images.githubusercontent.com/55095883/136019584-872c07a9-da19-41c0-b701-6d42f33afd43.png" />
 <br />
 <h2>About</h2>
-Discord Oxygen is a universal Client mod with many Features and every single Hack <strong>I ever created</strong>.
+Discord Oxygen is a universal client modification with many features and includes every single hack <strong>I've created</strong>.
 
 <h2>Important Information</h2>
 <p>
-  Many Features listed here are only client-side!<br>
-  This means that some things like a custom discriminator or animated profile picture/banner are <strong>only visibile to other users of Discord Oxygen!!!</strong><br>
+  Many features listed here are only client sided!<br>
+  This means that some things like a custom discriminator or animated profile picture/banner are <strong>only visible to other Discord Oxygen users!/strong><br>
   We try to make as many things globally visible as possible, but that's not possible for everything.<br>
-  (For example the custom emojis are real emojis for Discord-Oxygen-users, but for non-Discord-Oxygen-users they only <strong>look like</strong> custom emojis.)<br>
-  <strong>You won't get a real Discord Nitro Subscription for free.</strong> Any tool claiming to do that is most likely a scam.<br>
+  (For example the custom emojis are real emojis for Discord Oxygen-users, but for non Discord-Oxygen-users they only <strong>look like</strong> custom emojis.)<br>
+  <strong>You won't get a real Discord Nitro subscription for free.</strong> Any tool claiming to do that is most likely a scam.<br>
   <br>
-  <strong>Important:</strong> Only use exploits on your own Accounts or on Accounts where you got the legal permission to do so. Hacking accounts is <strong>illegal</strong>, you might get in serious trouble if you don't have the permission. Please also consider that this wouldn't only be illegal but also unethical. 
+  <strong>Important:</strong> Only use exploits on your own accounts or on accounts where you have the legal permission to do so. Hacking accounts is <strong>illegal</strong>, you will get in serious trouble if you don't have the permission. Please also consider that this wouldn't only be illegal but also unethical. 
 </p>
 
 <h2>Features</h2>
-<p>(Note: Unfortunately I cannot list every single Feature here because that would exceed the maximum page length  by far)
+<p>(Note: Unfortunately I cannot list every single feature here because that would exceed the maximum page length by far)
 
 
 <ul>
@@ -24,25 +24,25 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
     <ul>
       <li>Animated and Normal Emojis anywhere <img alt="NitroBlob Emoji" src="https://cdn.discordapp.com/emojis/775749437803855913.gif?v=1" width="17" /></li>
       <li>Stickers</li>
-      <li>send longer Messages (higher character limit)</li>
-      <li>High Resolution Screenshare</li>
+      <li>Send Longer Messages (higher character limit)</li>
+      <li>Higher Resolution Screenshare</li>
       <li>Changeable Discriminator (e.g. #0001, #9999, everything you like)</li>
       <li>Animated Profile Picture</li>
       <li>Animated Profile Banner</li>
       <li>Server Boosts (see Oxygen Boosts)</li>
-      <li>Unlimited Upload Filesize: normal 10MB, Discord Nitro 100MB, Discord Oxygen 100,000MB</li>
-      <li>Unlimited Servers: normal 100 Servers, Discord Nitro 200 Servers, Discord Oxygen ∞ Servers<br>(after more than 10,000 Servers your PC might get a bit laggy though)</li>
+      <li>Unlimited Upload Filesize: Normal 10MB, Discord Nitro 100MB, Discord Oxygen 100,000MB</li>
+      <li>Unlimited Servers: normal 100 Servers, Discord Nitro 200 Servers, Discord Oxygen ∞ Servers<br>(after more than 10,000 Servers your PC might get a bit laggy)</li>
     </ul>
   </li>
   <li>Oxygen Boosts
     <ul>
-      <li>Fake Boost and Level count</li>
+      <li>Fake Boost and Level Count</li>
       <li>Unlock all emoji slots</li>
       <li>Vanity URL</li>
       <li>Custom Stickers</li>
       <li>(animated) Server Banner</li>
       <li>Unlock Discorvery and get your Server Partnered Instantly</li>
-      <li>Secret "Hacking" Category at Discovery</li>
+      <li>Secret "Hacking" Category on Discovery</li>
       <li>Animated Server Icon</li>
     </ul>
   </li>
@@ -53,9 +53,9 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
       <li>Split Chat</li>
       <li>Custom RPC (Now Playing ...)</li>
       <li>Animated Status</li>
-      <li>Ghost-commands
+      <li>Ghost Commands
         <ul>
-          <li>Client-Side & undetectable</li>
+          <li>Client Sided & Undetectable</li>
           <li>Easy to use (similar to slash commands)</li>
           <li>Most Oxygen Features can be accessed and configured</li>
           <li>Secret "hacker console" for developers</li>
@@ -63,7 +63,7 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
       </li>
       <li>Selfbot</li>
       <li>More Integrations</li>
-      <li>Send custom emojis without having to join the Emoji's Server</li>
+      <li>Send custom emojis without having to join the Emojis Server</li>
       <li>Upload .png files as custom Oxygen-exclusive Emojis (unlimited amount)</li>
       <li>Use custom stickers without having to upload them</li>
     </ul>
@@ -86,13 +86,13 @@ Discord Oxygen is a universal Client mod with many Features and every single Hac
   </li>
   <li>Several Exploits, for example:
     <ul>
-      <li>Bypass MFA ony our own Account</li>
-      <li>Token Cracker & Validator (I reversee-engineered Discords JWT System, check out <a href="https://github.com/hxr404/Discord-Console-hacks">Discord Console Hacks</a>)<br><em>Note: A token can't be bruteforced, only calculated with the correct parameters. Every Tool that claims to "magically hack" a token is scam.</em></li>
+      <li>Bypass MFA on your own account</li>
+      <li>Token Cracker & Validator (I reverse-engineered Discords JWT System, check out <a href="https://github.com/hxr404/Discord-Console-hacks">Discord Console Hacks</a>)<br><em>Note: A token can't be bruteforced, only calculated with the correct parameters. Every tool that claims to "magically hack" a token is scam.</em></li>
       <li>Discord Mobile QR Exploit</li>
       <li>Send Messages as someone else</li>
       <li>Nitro Generator*</li>
-      <li>Full grabber using only a Link**<ul>
-          <li>Get READ-ONLY access to most of someone's account data (except for the password), just by sending them a link they need to click (by exploiting a flaw in Discord's authentication System)**</li>
+      <li>Full grabber using only a link**<ul>
+          <li>Get READ-ONLY access to most of someone's account data (except for the password), just by sending them a link they need to click (by exploiting a flaw in Discord's authentication system)**</li>
           <li>Fetch private Information (such as IP-Adresses, hardware specs, realtime + IP location, biometric data, phone number, available attack vectors, open ports, etc.)**</li>
         </ul>
       </li>
