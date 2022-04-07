@@ -30,7 +30,7 @@ Discord Oxygen is a universal client modification with many features and include
       <li>Animated Profile Banner</li>
       <li>Server Boosts (see Oxygen Boosts)</li>
       <li>Unlimited Upload Filesize: Normal 10MB, Discord Nitro 100MB, Discord Oxygen 100,000MB</li>
-      <li>Unlimited Servers: normal 100 Servers, Discord Nitro 200 Servers, Discord Oxygen ∞ Servers<br>(after more than 10,000 Servers your PC might get a bit laggy)</li>
+      <li>Unlimited Servers: normal 100 Servers, Discord Nitro 200 Servers, Discord Oxygen ∞ Servers<br>(after 10,000 servers your PC might lag)</li>
     </ul>
   </li>
   <li>Oxygen Boosts
@@ -39,7 +39,7 @@ Discord Oxygen is a universal client modification with many features and include
       <li>Unlock all emoji slots</li>
       <li>Vanity URL</li>
       <li>Custom Stickers</li>
-      <li>(animated) Server Banner</li>
+      <li>Animated Server Banner</li>
       <li>Unlock Discorvery and get your Server Partnered Instantly</li>
       <li>Secret "Hacking" Category on Discovery</li>
       <li>Animated Server Icon</li>
@@ -67,13 +67,13 @@ Discord Oxygen is a universal client modification with many features and include
       <li>Use custom stickers without having to upload them</li>
     </ul>
   </li>
-  <li>The "All Seing Eye"</li>
+  <li>The "All Seeing Eye"</li>
   <li>Staff Hacks
     <ul>
       <li>Discord Experiments (Staff Exclusive Beta-Tests)</li>
       <li>Developer Options (includes custom build-overrides)</li>
       <li>Become Staff + Certified Moderator</li>
-      <li>Get every badge (Inlcuding all Hypesquad Houses at once)</li>
+      <li>Get every badge (Including all Hypesquad Houses at once)</li>
       <li>Secret Features</li>
     </ul>
   </li>
