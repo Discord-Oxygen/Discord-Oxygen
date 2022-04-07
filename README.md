@@ -1,22 +1,21 @@
-<h1>Discord Oxygen</h1>
 <img alt="Discord Oxygen Logo" src="https://user-images.githubusercontent.com/55095883/136019584-872c07a9-da19-41c0-b701-6d42f33afd43.png" />
 <br />
 <h2>About</h2>
-Discord Oxygen is a universal client modification with many features and includes every single hack <strong>I've created</strong>.
+Discord Oxygen is a universal client modification with many features and includes every single hack that I've created.
 
 <h2>Important Information</h2>
 <p>
   Many features listed here are only client sided!<br>
   This means that some things like a custom discriminator or animated profile picture/banner are <strong>only visible to other Discord Oxygen users!</strong><br>
-  We try to make as many things globally visible as possible, but that's not possible for everything.<br>
+  We try to make as many things globally visible as possible, but that's unfortunately not possible for everything.<br>
   (For example the custom emojis are real emojis for Discord Oxygen-users, but for non Discord-Oxygen-users they only <strong>look like</strong> custom emojis.)<br>
   <strong>You won't get a real Discord Nitro subscription for free.</strong> Any tool claiming to do that is most likely a scam.<br>
   <br>
-  <strong>Important:</strong> Only use exploits on your own accounts or on accounts where you have the legal permission to do so. Hacking accounts is <strong>illegal</strong>, you will get in serious trouble if you don't have the permission. Please also consider that this wouldn't only be illegal but also unethical. 
+  <strong>Important:</strong> Only use exploits on your own account or on accounts where you have the permission to do so. Hacking accounts is <strong>illegal</strong>, you will get in serious trouble if you don't have the permission. Please also consider that this wouldn't only be illegal but also unethical. 
 </p>
 
 <h2>Features</h2>
-<p>(Note: Unfortunately I cannot list every single feature here because that would exceed the maximum page length by far)
+<p>(Note: I cannot list every feature here because that would exceed the maximum page length)
 
 
 <ul>
