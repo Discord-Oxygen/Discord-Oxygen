@@ -24,3 +24,8 @@ No other data is ever collected.
 
 ### Q: Are there any other undocumented features not included on this list?
 **A:** Possibly. The patron-only version always receives the latest exploits, as soon as they are discovered. And the feature list already is really long, it just makes sense to not include every single Feature in the readme.
+
+### Q: niTro HaCk wHeRe?
+**A:** Discord Oxygen is the sucessor of "nitro hack". The original script (which was spagetti-code anyways) is *patched*, that's why I made Discord Oxygen, which is meant to be *unpatchable* or at least easy to maintain / fix if Discord tries patching it.<br>
+And because so many people keep asking this question, I translated it to skid language:<br>
+![image](https://user-images.githubusercontent.com/55095883/166149389-33d566c1-5e99-4d4d-96ac-6e210bfdafb2.png)
