@@ -1,8 +1,7 @@
-<h1>Discord Oxygen</h1>
 <img alt="Discord Oxygen Logo" src="https://user-images.githubusercontent.com/55095883/136019584-872c07a9-da19-41c0-b701-6d42f33afd43.png" />
 <br />
 <h2>About</h2>
-Discord Oxygen is a universal client modification with many features and includes every single hack <strong>I've created</strong>.
+Discord Oxygen is a universal client modification with many features and includes every single hack that I've created.
 
 <h2>Important Information</h2>
 <p>
@@ -12,11 +11,11 @@ Discord Oxygen is a universal client modification with many features and include
   (For example the custom emojis are real emojis for Discord Oxygen-users, but for non Discord-Oxygen-users they only <strong>look like</strong> custom emojis.)<br>
   <strong>You won't get a real Discord Nitro subscription for free.</strong> Any tool claiming to do that is most likely a scam.<br>
   <br>
-  <strong>Important:</strong> Only use exploits on your own accounts or on accounts where you have the legal permission to do so. Hacking accounts is <strong>illegal</strong>, you will get in serious trouble if you don't have the permission. Please also consider that this wouldn't only be illegal but also unethical. 
+  <strong>Important:</strong> Only use exploits on your own account(s) or on accounts where you have the permission to do so. Hacking accounts is <strong>illegal</strong>, you will get in serious trouble if you don't have the permission. Please also consider that this wouldn't only be illegal but also unethical. 
 </p>
 
 <h2>Features</h2>
-<p>(Note: Unfortunately I cannot list every single feature here because that would exceed the maximum page length by far)
+<p>(Note: I cannot list every feature here because that would exceed the maximum page length)
 
 
 <ul>
@@ -31,7 +30,7 @@ Discord Oxygen is a universal client modification with many features and include
       <li>Animated Profile Banner</li>
       <li>Server Boosts (see Oxygen Boosts)</li>
       <li>Unlimited Upload Filesize: Normal 10MB, Discord Nitro 100MB, Discord Oxygen 100,000MB</li>
-      <li>Unlimited Servers: normal 100 Servers, Discord Nitro 200 Servers, Discord Oxygen ∞ Servers<br>(after more than 10,000 Servers your PC might get a bit laggy)</li>
+      <li>Unlimited Servers: normal 100 Servers, Discord Nitro 200 Servers, Discord Oxygen ∞ Servers<br>(after 10,000 servers your PC might lag)</li>
     </ul>
   </li>
   <li>Oxygen Boosts
@@ -40,7 +39,7 @@ Discord Oxygen is a universal client modification with many features and include
       <li>Unlock all emoji slots</li>
       <li>Vanity URL</li>
       <li>Custom Stickers</li>
-      <li>(animated) Server Banner</li>
+      <li>Animated Server Banner</li>
       <li>Unlock Discorvery and get your Server Partnered Instantly</li>
       <li>Secret "Hacking" Category on Discovery</li>
       <li>Animated Server Icon</li>
@@ -68,13 +67,13 @@ Discord Oxygen is a universal client modification with many features and include
       <li>Use custom stickers without having to upload them</li>
     </ul>
   </li>
-  <li>The "All Seing Eye"</li>
+  <li>The "All Seeing Eye"</li>
   <li>Staff Hacks
     <ul>
       <li>Discord Experiments (Staff Exclusive Beta-Tests)</li>
       <li>Developer Options (includes custom build-overrides)</li>
       <li>Become Staff + Certified Moderator</li>
-      <li>Get every badge (Inlcuding all Hypesquad Houses at once)</li>
+      <li>Get every badge (Including all Hypesquad Houses at once)</li>
       <li>Secret Features</li>
     </ul>
   </li>
