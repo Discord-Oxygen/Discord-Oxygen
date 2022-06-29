@@ -29,7 +29,7 @@ Discord Oxygen is a universal client modification with many features and include
       <li>Animated Profile Picture</li>
       <li>Animated Profile Banner</li>
       <li>Server Boosts (see Oxygen Boosts)</li>
-      <li>Unlimited Upload Filesize: Normal 10MB, Discord Nitro 100MB, Discord Oxygen 100,000MB</li>
+      <li>Unlimited Upload Filesize: Normal 8MB, Discord Nitro 100MB, Discord Oxygen 100,000MB</li>
       <li>Unlimited Servers: normal 100 Servers, Discord Nitro 200 Servers, Discord Oxygen ∞ Servers<br>(after 10,000 servers your PC might lag)</li>
     </ul>
   </li>
@@ -128,4 +128,3 @@ Discord Oxygen is a universal client modification with many features and include
   Here's the Invite Link: https://matrix.to/#/#discord-oxygen:matrix.org<br>
   <em>(In case you can't use Matrix, this Discord Server is bridged to it: https://discord.com/invite/vs979cxECA)</em>
   </p>
-  
