@@ -5,7 +5,7 @@ Discord Oxygen is a universal client modification with many features and include
 
 <h2>Important Information</h2>
 <p>
-  Many features listed here are only client sided!<br>
+  Many features listed here are client-side only!<br>
   This means that some things like a custom discriminator or animated profile picture/banner are <strong>only visible to other Discord Oxygen users!</strong><br>
   We try to make as many things globally visible as possible, but that's not possible for everything.<br>
   (For example the custom emojis are real emojis for Discord Oxygen-users, but for non Discord-Oxygen-users they only <strong>look like</strong> custom emojis.)<br>
