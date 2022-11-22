@@ -3,7 +3,7 @@
 <br>
 <br>
 
-### Q: Where can I downlaod Discord Oxygen?
+### Q: Where can I download Discord Oxygen?
 **A:** You can't. Its not released yet.
 
 ### Q: Will there be a free tier?
