@@ -22,6 +22,11 @@ It looks similar to this: `License xyz: 000000000000000000, 000000000000000000`.
 If more than the maximum allowed IDs register one a certain license key, the authentication will fail and the license key is deactivated.<br>
 No other data is ever collected.
 
+### Q: Crossplatform?
+**A:** Yes. Discord Oxygen compiles to native javascript which can be run by most modern Browsers. The Discord Desktop app is more or less Google Chrome ([Electronjs](https://github.com/electron/electron)) displaying the same website as the web version + some added tracking + features that would work on web perfectly well re-enabled. Discord Oxygen includes some patches which re-enable some of the "Desktop exclusive" features on web.
+Besides the browser version of Discord Oxygen there will be installers for Linux, Windows, maybe BSD and a flake/module/overlay for NixOS.
+All the installer code will be GPL, so feel free to add your own platform if not supported yet.
+
 ### Q: Are there any other undocumented features not included on this list?
 **A:** Possibly. The patron-only version always receives the latest exploits, as soon as they are discovered. And the feature list already is really long, it just makes sense to not include every single Feature in the readme.
 
