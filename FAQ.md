@@ -33,4 +33,4 @@ All the installer code will be GPL, so feel free to add your own platform if not
 ### Q: niTro HaCk wHeRe?
 **A:** Discord Oxygen is the sucessor of "nitro hack". The original script (which was spagetti-code anyways) is *patched*, that's why I made Discord Oxygen, which is meant to be *unpatchable* or at least easy to maintain / fix if Discord tries patching it.<br>
 And because so many people keep asking this question, I translated it to skid language:<br>
-![image](https://user-images.githubusercontent.com/55095883/166149389-33d566c1-5e99-4d4d-96ac-6e210bfdafb2.png)
+<img src="https://user-images.githubusercontent.com/91915462/187090116-95d9fd68-3024-40ce-86aa-3003fac7bd2d.png" width=500px alt="Nitro Hack, Discord Oxygen, they're the same picture" />
